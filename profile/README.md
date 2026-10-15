@@ -7,7 +7,7 @@ Miris streams 3D assets, including 3D and 4D Gaussian splats, to mobile, headset
 | Integration | Category | Status | Latest version |
 | --- | --- | --- | --- |
 | [Substance 3D Painter](https://github.com/Miris-Inc/miris-substance-painter) | DCC | Released | ![latest](https://img.shields.io/github/v/release/Miris-Inc/miris-substance-painter?display_name=tag&label=) |
-| [FiftyOne](https://github.com/Miris-Inc/miris-fiftyone) | Destination | In development | No release yet |
+| [FiftyOne](https://github.com/Miris-Inc/miris-fiftyone) | Destination | Released (built into FiftyOne ≥ 1.21) | FiftyOne 1.21+ |
 | [Unity SDK](https://github.com/Miris-Inc/miris-unity-sdk) | SDK | Released | ![latest](https://img.shields.io/github/v/release/Miris-Inc/miris-unity-sdk?display_name=tag&label=) |
 
 ### Tools
