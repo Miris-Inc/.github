@@ -1,6 +1,6 @@
 ## Miris
 
-Miris streams 3D assets, including 3D and 4D Gaussian splats, to mobile, headset and desktop devices. These are our open-source integrations.
+Miris enables creators to build better 3D experiences across all devices anywhere in the world. These are our open-source integrations.
 
 ### Integrations
 
