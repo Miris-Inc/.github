@@ -15,6 +15,6 @@ Miris enables creators to build better 3D experiences across all devices anywher
 
 | Tool | Status | Latest version |
 | --- | --- | --- |
-| [Miris CLI](https://github.com/Miris-Inc/miris-cli) | Released | ![latest](https://img.shields.io/github/v/release/Miris-Inc/miris-cli?display_name=tag&label=) |
+| [Miris CLI](https://github.com/Miris-Inc/miris-cli) | Released | Updates itself ([install](https://docs.miris.com/cli/installation)) |
 
 Browse every integration by the [miris-integration](https://github.com/orgs/Miris-Inc/repositories?q=topic%3Amiris-integration) topic.
